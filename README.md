@@ -26,6 +26,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-abhiyandhakal.vercel.app/api?username=abhiyandhakal&show_icons=true&locale=en" alt="abhiyandhakal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiyandhakal&" alt="abhiyandhakal" /></p>
+<p><img align="center" src="https://github-readme-streak-stats-beige-beta.vercel.app/?user=abhiyandhakal" alt="abhiyandhakal" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiyandhakal&label=Profile%20views&color=0e75b6&style=flat" alt="abhiyandhakal" /> </p>
