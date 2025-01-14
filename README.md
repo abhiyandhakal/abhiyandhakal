@@ -25,6 +25,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhiyandhakal&show_icons=true&locale=en" alt="abhiyandhakal" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=abhiyandhakal" alt="abhiyandhakal" /></p>
+### Song I'm Listening To Right Now
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=314akiyh4z36ucsqvglx5suzqb5a&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=314akiyh4z36ucsqvglx5suzqb5a&redirect=true)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiyandhakal&label=Profile%20views&color=0e75b6&style=flat" alt="abhiyandhakal" /> </p>
